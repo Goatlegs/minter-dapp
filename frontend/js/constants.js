@@ -1,5 +1,5 @@
-const contractAddress = "0x86B8A89346e969f6004D6Ac15a206F270a2C471B"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0x053fB22c1E3762EB25746693E30D177F22954f44"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Sigildala NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
