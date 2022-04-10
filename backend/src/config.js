@@ -8,7 +8,7 @@ const network = NETWORK.eth;
 
 // General metadata for Ethereum
 const namePrefix = "sigildala";
-const description = "Mandala Sigils for Clarity of Thought and Action, be the Power of Change. This is an Illusion at 1024 x1024px. By the Mandala Fella.";
+const description = "Mandala Sigils for Clarity of Thought and Action, be the Power of Change. This is an Illusion at 1024 x1024px. By Sigildala.";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 // If you have selected Solana then the collection starts from 0 automatically
